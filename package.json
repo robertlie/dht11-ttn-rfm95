@@ -1,0 +1,16 @@
+{
+  "name": "dht11-ttn-rfm95",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dht_ttn_mam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iota.lib.js": "^0.4.7",
+    "ttn": "^2.3.1"
+  }
+}
