@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "iota.lib.js": "^0.4.7",
+    "lodash": "^4.17.11",
     "ttn": "^2.3.1"
   }
 }
